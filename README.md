@@ -1,20 +1,53 @@
-![My Image](/bearwolf.jpg)
-Hi there, I'm Huzeyfe! 👋
+<div style="text-align: center">
+  <img width="100%" src="/bearwolf.jpg" />
+</div>
 
-I'm a passionate MERN stack developer with 1 years of experience. I love building scalable web applications and exploring new technologies. I enjoy solving complex problems and collaborating with others to create innovative solutions. My goal is to create high-quality software that provides a great user experience.
+<h1 align="center">This is Huzeyfe!</h1>
 
-Skills
+<p align="center">
+ I code not for want, but for necessity.
+  
+ In the realm of bugs, I shall be the debugger.
+ 
+ When faced with uncertainty, I shall trust in my code.
+ 
+ Amidst the chaos of errors, I shall refine my craft.
+ 
+ In the pursuit of optimal solutions, mercy has no place.
+ 
+ In the midst of complex algorithms, fear shall find no home.
+ 
+ Confronting the termination of code, remorse shall not linger. 
+ 
+</p>
+<p align="center">
+ Skills
 
-Frontend: HTML, CSS, JavaScript, React.js, Redux
+**Frontend:** HTML, CSS, JavaScript, React.js, Redux
 
-Backend: Node.js, Express.js, MongoDB, RESTful APIs
+**Backend:** Node.js, Express.js, MongoDB, RESTful APIs
 
-Database: MongoDB, Mongoose
+**Database:** MongoDB, Mongoose
 
-Testing: Jest
+**Testing:** Jest
 
-Version Control: Git, GitHub
+**Version Control:** Git, GitHub
 
-Deployment: Heroku, Netlify
+**Deployment:** Heroku, Netlify
 
-Other: Agile Development, Scrum
+**Other:** Agile Development, Scrum
+</p>
+<p align="center">
+  🤓 Feel free to ask, I am glad if I can help 
+</p>
+
+<br />
+
+<div align="center">
+  <img
+    width="200"
+    style="margin-right: 100px"
+    align="center"
+    src="/bearwolf.jpg"
+  />
+</div>
