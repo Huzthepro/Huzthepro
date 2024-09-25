@@ -5,14 +5,16 @@
 <h1 align="center">This is Huzeyfe!</h1>
 
 <div align="center">
-Living in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>Netherlands. 
+Living in Netherlands. 
 </br>
 Full stack developer.
 </div>
 </br>
 <div align="center">
   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzthepro&langs_count=10&layout=compact)](https://github.com/Huzthepro/github-readme-stats)
+ <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/?username=umenzi&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
+ -->
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzthepro&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
    
 </div>
 
@@ -22,26 +24,28 @@ Full stack developer.
 <h3>Things I code with</h3>
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+![Java Badge](https://img.shields.io/badge/-Java-3B4252?style=flat&logo=openjdk&logoColor=D08770)
+![C# Badge](https://img.shields.io/badge/-C%23-3B4252?style=flat&logo=sharp&logoColor=88C0D0)
+
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-3B4252?style=flat&logo=javascript&logoColor=EBCB8B)
+![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3B4252?style=flat&logo=typescript&logoColor=3c82d0)
+![Three.js Badge](https://img.shields.io/badge/-Three.js-3B4252?style=flat&logo=threedotjs&logoColor=5E81AC)
+
+![MySQL Badge](https://img.shields.io/badge/-MySQL-3B4252?style=flat&logo=mysql&logoColor=88C0D0)
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3B4252?style=flat&logo=mongodb&logoColor=D08770)
+
+> ![Heroku Badge](https://img.shields.io/badge/-Heroku-3B4252?style=flat&logo=heroku&logoColor=81A1C1)
+> 
 </p>
 
 
 
 ##### 🔭 I’m currently working on updating my skills on the following technologies:
 
-   ![alt text](https://img.shields.io/badge/Jest,unit.test--C21325?style=for-the-badge&logo=jest)
+> ![Docker Badge](https://img.shields.io/badge/-Docker-3B4252?style=flat&logo=docker&logoColor=B48EAD)
+>  ![AWS Badge](https://img.shields.io/badge/-AWS-3B4252?style=flat&logo=amazonwebservices&logoColor=D08770)
+> ![Google Cloud Badge](https://img.shields.io/badge/-Google%20Cloud-3B4252?style=flat&logo=googlecloud&logoColor=BF616A)
+> ![Azure Badge](https://img.shields.io/badge/-Azure-3B4252?style=flat&logo=microsoftazure&logoColor=D08770)
 
 
  
