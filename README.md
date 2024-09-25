@@ -46,13 +46,14 @@ Full stack developer.
 ![Unity](https://img.shields.io/badge/-Unity-3B4252?style=flat&logo=unity&logoColor=dbdbdb)
 ![Blender Badge](https://img.shields.io/badge/-Blender-3B4252?style=flat&logo=blender&logoColor=df7b2e)
 ![Photoshop Badge](https://img.shields.io/badge/-Photoshop-3B4252?style=flat&logo=adobephotoshop&logoColor=2a81cf)
+<hr>
+<br>
 
-<br><br>
 ##### 🔭 I’m currently working on updating my skills on the following technologies:
 
-> ![Docker Badge](https://img.shields.io/badge/-Docker-3B4252?style=flat&logo=docker&logoColor=0f67ac)
->  ![AWS Badge](https://img.shields.io/badge/-AWS-3B4252?style=flat&logo=amazonwebservices&logoColor=ffa53d)
-> ![Google Cloud Badge](https://img.shields.io/badge/-Google%20Cloud-3B4252?style=flat&logo=googlecloud&logoColor=BF616A)
+![Docker Badge](https://img.shields.io/badge/-Docker-3B4252?style=flat&logo=docker&logoColor=0f67ac)
+![AWS Badge](https://img.shields.io/badge/-AWS-3B4252?style=flat&logo=amazonwebservices&logoColor=ffa53d)
+![Google Cloud Badge](https://img.shields.io/badge/-Google%20Cloud-3B4252?style=flat&logo=googlecloud&logoColor=BF616A)
 
 
  
