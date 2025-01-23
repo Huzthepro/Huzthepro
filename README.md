@@ -1,6 +1,6 @@
-<div style="text-align: center">
+ <!-- <div style="text-align: center">
   <img width="100%" src="/bearwolf.jpg" />
-</div>
+</div>  -->
 
 <h1 align="center">This is Huzeyfe!</h1>
 
@@ -10,6 +10,25 @@ Living in  <img src="https://cdn-icons-png.flaticon.com/512/323/323275.png" widt
 </br>
 Full stack developer.
 </div>
+</br>
+
+<h1 align="center">Projects</h1>
+
+  <table>
+  <tr>
+    <td style="text-align: left; vertical-align: top;">
+     <a href="https://www.lineupeditor.com/" target="blank"> lineupeditor.com </a>
+      <p>Collaborative Match Formation Tool</p>
+      <strong>Tech:</strong>
+      <p>NextJs 14 + Prisma + MongoDb + Tailwind + TypeScript</p>
+    </td>
+    <td style="text-align: center;">
+      <img width="100%" src="/lineup-editor.jpg" alt="Project Image" />
+    </td>
+  </tr>
+</table>
+
+
 </br>
 <div align="center">
   
