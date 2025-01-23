@@ -27,6 +27,21 @@ Full stack developer.
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td style="text-align: left; vertical-align: top;">
+     <a href="https://github.com/Huzthepro/subtitle-separator" target="blank"> Subtitle Separator </a>
+     </br>
+  <p>Tool for voice actors to separate dialogs for each speaker in subtitles.</p>
+ <p>Conveniently translate lines or adjust timing while tagging lines with colors.</p>
+      <strong>Tech:</strong>
+      <p>C#</p>
+    </td>
+    <td style="text-align: center;">
+      <img width="100%" src="/SubtitleUse.gif" alt="Project Image" />
+    </td>
+  </tr>
+</table>
 
 
 </br>
