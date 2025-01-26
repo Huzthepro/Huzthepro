@@ -14,34 +14,49 @@ Full stack developer.
 
 <h1 align="center">Projects</h1>
 
-  <table>
+<table>
   <tr>
-    <td style="text-align: left; vertical-align: top;">
-     <a href="https://www.lineupeditor.com/" target="blank"> lineupeditor.com </a>
+    <td  valign="top">
+      <a href="https://www.lineupeditor.com/" target="_blank">Lineup Editor</a>
       <p>Collaborative Match Formation Tool</p>
       <strong>Tech:</strong>
-      <p>NextJs 14 + Prisma + MongoDb + Tailwind + TypeScript</p>
+      <p>NextJs 14 + Prisma + MongoDB + Tailwind + TypeScript</p>
     </td>
-    <td style="text-align: center;">
-      <img width="100%" src="/lineup-editor.jpg" alt="Project Image" />
+    <td  align="center">
+      <img src="/lineup-editor.jpg" alt="Lineup Editor Image" width="100%">
     </td>
   </tr>
 </table>
+
 <table>
   <tr>
-    <td style="text-align: left; vertical-align: top;">
-     <a href="https://github.com/Huzthepro/subtitle-separator" target="blank"> Subtitle Separator </a>
-     </br>
-  <p>Tool for voice actors to separate dialogs for each speaker in subtitles.</p>
- <p>Conveniently translate lines or adjust timing while tagging lines with colors.</p>
+    <td valign="top">
+      <a href="https://github.com/Huzthepro/subtitle-separator" target="_blank">Subtitle Separator</a>
+      <p>Tool for voice actors to separate dialogs for each speaker in subtitles.</p>
+      <p>Conveniently translate lines or adjust timing while tagging lines with colors.</p>
       <strong>Tech:</strong>
       <p>C#</p>
     </td>
-    <td style="text-align: center;">
-      <img width="100%" src="/SubtitleUse.gif" alt="Project Image" />
+    <td align="center">
+      <img src="/SubtitleUse.gif" alt="Subtitle Separator Image" width="100%">
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td  valign="top">
+      <a href="https://three-flax.vercel.app/" target="_blank">Solar System</a>
+      <p>3D version of our solar system by any date.</p>
+      <strong>Tech:</strong>
+      <p>NextJs 14 + ThreeJS + Tailwind + TypeScript</p>
+    </td>
+    <td  align="center">
+      <img src="/solar-system.gif" alt="Solar System Image" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 
 </br>
