@@ -16,14 +16,14 @@ Full stack developer.
 
 <table>
   <tr>
-    <td  valign="top">
+    <td valign="top">
       <a href="https://www.lineupeditor.com/" target="_blank">Lineup Editor</a>
-      <p>Collaborative Match Formation Tool</p>
-      <strong>Tech:</strong>
-      <p>NextJs 14 + Prisma + MongoDB + Tailwind + TypeScript</p>
+      <p>A collaborative tool for designing and managing match formations. Ideal for team coordination and strategic planning.</p>
+      <strong>Tech Stack:</strong>
+      <p>Next.js 14, Prisma, MongoDB, Tailwind CSS, TypeScript</p>
     </td>
-    <td  align="center">
-      <img src="/lineup.gif" alt="Lineup Editor Image" width="100%">
+    <td align="center">
+      <img src="/lineup.gif" alt="Lineup Editor Screenshot" width="100%">
     </td>
   </tr>
 </table>
@@ -32,30 +32,30 @@ Full stack developer.
   <tr>
     <td valign="top">
       <a href="https://github.com/Huzthepro/subtitle-separator" target="_blank">Subtitle Separator</a>
-      <p>Tool for voice actors to separate dialogs for each speaker in subtitles.</p>
-      <p>Conveniently translate lines or adjust timing while tagging lines with colors.</p>
-      <strong>Tech:</strong>
+      <p>A specialized tool for voice actors to separate dialogues for each speaker in subtitles. Features include translation, timing adjustments, and color tagging for better clarity and organization.</p>
+      <strong>Tech Stack:</strong>
       <p>C#</p>
     </td>
     <td align="center">
-      <img src="/SubtitleUse.gif" alt="Subtitle Separator Image" width="100%">
+      <img src="/SubtitleUse.gif" alt="Subtitle Separator Screenshot" width="100%">
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td  valign="top">
+    <td valign="top">
       <a href="https://three-flax.vercel.app/" target="_blank">Solar System</a>
-      <p>Real time 3D version of our solar system by any given date.</p>
-      <strong>Tech:</strong>
-      <p>NextJs 14 + ThreeJS + Tailwind + TypeScript</p>
+      <p>An interactive 3D visualization of the solar system, dynamically updating planetary positions for any specified date.</p>
+      <strong>Tech Stack:</strong>
+      <p>Next.js 14, Three.js, Tailwind CSS, TypeScript</p>
     </td>
-    <td  align="center" width="40%">
-      <img src="/solar.gif" alt="Solar System Image" width="100%">
+    <td align="center" width="40%">
+      <img src="/solar.gif" alt="Solar System Screenshot" width="100%">
     </td>
   </tr>
 </table>
+
 
 
 
