@@ -23,7 +23,7 @@ Full stack developer.
       <p>NextJs 14 + Prisma + MongoDB + Tailwind + TypeScript</p>
     </td>
     <td  align="center">
-      <img src="/lineup-editor.jpg" alt="Lineup Editor Image" width="100%">
+      <img src="/lineup.gif" alt="Lineup Editor Image" width="100%">
     </td>
   </tr>
 </table>
