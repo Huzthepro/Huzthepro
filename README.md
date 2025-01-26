@@ -52,7 +52,7 @@ Full stack developer.
       <p>NextJs 14 + ThreeJS + Tailwind + TypeScript</p>
     </td>
     <td  align="center">
-      <img src="/solar-system.gif" alt="Solar System Image" width="100%">
+      <img src="/solar.gif" alt="Solar System Image" width="100%">
     </td>
   </tr>
 </table>
