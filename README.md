@@ -47,7 +47,7 @@ Full stack developer.
   <tr>
     <td  valign="top">
       <a href="https://three-flax.vercel.app/" target="_blank">Solar System</a>
-      <p>3D version of our solar system by any date.</p>
+      <p>Real time 3D version of our solar system by any given date.</p>
       <strong>Tech:</strong>
       <p>NextJs 14 + ThreeJS + Tailwind + TypeScript</p>
     </td>
