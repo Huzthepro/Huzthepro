@@ -17,6 +17,22 @@ Full stack developer.
 <table>
   <tr>
     <td valign="top">
+      <a href="https://adventuring.vercel.app/" target="_blank">3D Physics Engine</a>
+      <p>A browser-based game built on top of a custom 3D physics engine written from scratch in TypeScript. Focused on real-time simulation, performance optimization, and scalable game systems.</p>
+      <strong>Engine:</strong>
+      <p>Custom physics (AABB, collision response), game loop architecture, grid-based broad-phase, mobile input system, and rendering optimizations.</p>
+      <strong>Tech Stack:</strong>
+      <p>TypeScript, Three.js, React Three Fiber</p>
+    </td>
+    <td align="center">
+      <img src="/adventuring.gif" alt="Adventuring Game Screenshot" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top">
       <a href="https://www.lineupeditor.com/" target="_blank">Lineup Editor</a>
       <p>A collaborative tool for designing and managing match formations. Ideal for team coordination and strategic planning.</p>
       <strong>Tech Stack:</strong>
@@ -42,31 +58,13 @@ Full stack developer.
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td valign="top">
-      <a href="https://three-flax.vercel.app/" target="_blank">Solar System</a>
-      <p>An interactive 3D visualization of the solar system, dynamically updating planetary positions for any specified date.</p>
-      <strong>Tech Stack:</strong>
-      <p>Next.js 14, Three.js, Tailwind CSS, TypeScript</p>
-    </td>
-    <td align="center" width="40%">
-      <img src="/solar.gif" alt="Solar System Screenshot" width="100%">
-    </td>
-  </tr>
-</table>
+
 
 
 
 
 </br>
-<div align="center">
-  
- <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/?username=umenzi&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
- -->
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzthepro&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
-   
-</div>
+
 
  
 
@@ -98,7 +96,8 @@ Full stack developer.
 <hr>
 <br>
 
-##### 🔭 I’m currently working on updating my skills on the following technologies:
+<br>
+<strong>DevOps & Cloud</strong>
 
 ![Docker Badge](https://img.shields.io/badge/-Docker-3B4252?style=flat&logo=docker&logoColor=0f67ac)
 ![AWS Badge](https://img.shields.io/badge/-AWS-3B4252?style=flat&logo=amazonwebservices&logoColor=ffa53d)
